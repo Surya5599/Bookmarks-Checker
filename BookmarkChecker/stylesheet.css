@@ -1,0 +1,19 @@
+button {
+  background-color: white;
+  height: auto;
+  width: auto;
+  outline: none;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 14px;
+  transition-duration: 0.4s;
+  font-family : inherit;
+  font-size: 12px;
+  padding: 5px;
+}
+
+button:hover {
+  background-color: #34A7C1;
+  color: white;
+  border-color: black;
+}
